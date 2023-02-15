@@ -1,3 +1,4 @@
+#### Project Status - Complete
 # Geocoding with Python
 ## Introduction
 An eCommerce client requests for a project, part of which require identification of regional location of their braches and their existing and potential clients, so their sales team can target these customers during promotion campaings. Because the dataset includes physical addresses and would like to plot them on a map, I had to geocode the address to generate their latitude and longitude co-ordinates. Upon a careful consideration, decided to use the following approach:
